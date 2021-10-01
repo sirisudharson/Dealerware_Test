@@ -1,0 +1,32 @@
+What concerns would you have from a testing perspective?
+QA engineers must be aware of the exact user journeys, navigations, and outcomes, or else 
+they won’t be able to create test cases that can comprehensively test the software at hand. 
+Naturally, this will defeat the whole purpose of testing.
+
+How would you go about tackling the QA for this work?
+Development and testing teams must collaborate at regular intervals in the presence of the product head or managers so 
+as to ensure that everyone is on the same page. Discussions at regular intervals maintain a transparent process and also 
+help team members stay aligned on their deliverables. Clear goals help testers create and execute result-oriented test cases and deliver products on time.
+n order to avoid missing out on critical requirements and project objectives, teams must create comprehensive documentation with specific 
+project requirements in detail. Complete documentation will serve as a baseline for QA teams throughout the project lifecycle. 
+It will also help QAs understand expected product outcomes and build the most relevant tests.
+
+
+What sort of tests would be worth describing or worth automating?
+A test case should be automated if:
+The task is going to be repeated.
+It’s going to save time.
+The requirements, the test, or the task are low risk, stable, and unlikely to change often.
+The test is subject to human error.
+The test is time consuming.
+The test has significant downtime between steps.
+The test is repetitive.
+These qualifications allow you to set standards for testing across the team and prioritize tests. This increases your chances of releasing on time.
+
+What tools would you use?
+Selenium
+Appium
+TestProject
+Robotframwork
+
+
